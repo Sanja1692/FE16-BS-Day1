@@ -49,3 +49,20 @@ Create a new HTML document and name it bootstrap-i2.html. You can use Lorem Ipsu
 
 You should end up with a grid of five rows and three columns on large screen. On medium screens, each row should have two paragraphs/columns. On small screens you should have two columns per row and on extra small screens you should have one column per row.
 
+Advanced Exercise | Offsetting columns
+
+
+Let's play a little bit with offsetting columns. Please create a new HTML document and name it bootstrap-a1.html. This time create at least three rows (you can create more rows if you want):
+
+The first row should have two columns on large screens 1 unit wide - represented on the image as Row 1, on medium screens these two columns should be 2 units wide.  Set the offset accordingly to get the result as it represented on the image below (Row 1). You can set the background color for the first row to red.  
+
+The second row should have three columns on large screens 2 units wide - set the offset to get the result as it represented on the image below. You can set the background color of the second row to yellow.
+
+The third row should have three columns on large screens, the first column should be 2 units wide, the second column should be 6 units wide and the third column should be 3 units wide - set the offset to get the result as it represented on the image below. You can set the background color of the second row to gray.
+
+All columns should have a white background.     
+
+Now it’s time to do your final Challenge for the first day in Bootstrap. Let's create something different from our previous examples. You are familiar with YouTube as a user, now you should try to create the same grid for your template as you can see on YouTube's website. You can open YouTube and see how it responds to different screen sizes. On the images below you can see the page structure that we need to achieve. First, create the structure that you can see on the image, and later, if you want, you can try to insert better styles or graphics.
+
+
+
