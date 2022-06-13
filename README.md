@@ -1,4 +1,4 @@
-# FE16-BS-Day1-Luca-Sanja
+# FE16-BS-Day1-Sanja
 
 Basic
 Warm up questions
